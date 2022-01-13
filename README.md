@@ -8,4 +8,4 @@ Anchor links `<a>` will be clickable, and an array (or list) of callback functio
 The <b>quick</b> <span style='color:#a52a2a;'>brown</span> <i>fox</i> jumps <a>over</a> <u>the</u> <a>lazy dog</a>.
 ```
 
-![Preview render](/img/preview.png)
+![Preview render](/img/preview0.png)
